@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dying Flashlight</string>
+    <string name="fa_power_off">&#xf011;</string>
+    <string name="fa_link_out">&#xf35d;</string>
+
+    <string name="ad_attribution">Ad</string>
+    <string name="try_shaking_the_phone">Try shaking the phone</string>
+    <string name="no_flashlight_found">No flashlight found</string>
+
+</resources>
